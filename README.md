@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**thomasreilly1011/thomasreilly1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thomas, I'm an aspiring Software Engineer and a student of Computer Science at University College Dublin 🇮🇪. I'm currently working an internship at [LibertyIT](https://www.liberty-it.co.uk/) as a Software Engineer. I enjoy taking part in coding compettions and participating in events with [UCD Netsoc](https://netsoc.com/), as well as playing music, travelling and cooking. Currently I'm learning about Microservices and Machine Learning. Here are some repositories you might be interested in,
 
-Here are some ideas to get you started:
+- 📦 [DDMS](https://github.com/thomasreilly1011/DDMS) - A distributed delivery management system built using a microservices architechture. It offers an 'inbetween' for e-commerce sites and postal services agregating a number of postal services and offering an interface from which you can: request and compare quotations for a partical delivery order, initiate a delivery order & track that orders status and location in the postal services sorting centres.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :video_game: [Scrable Game and Bot](https://github.com/thomasreilly1011/Scrabble-Bot) - A Scrabble game with JavaFX UI and programmed bot that you can play against. The Game features a fully functional Scrabble Board that you and another player can play on. The game automatically allocates tiles to your frames and has a built in feature for challenging your opponents word placements.
+- :penguin: [Unix Programming Portfolio](https://github.com/thomasreilly1011/Unix-Programming-Portfolio) - A collection of C programs, bash and python scripts that I wrote as part of my Unix Programming class in UCD.
+
+#### My Current Skill Set: 
+- Java :coffee:
+- JavaScript (including Node.js & React.js)
+- C/C++ 
+- Python :snake:
+- Ruby :gem:
+- SQL :sql:
+- Git :octocat:
+- Linux :penguin:
+- Docker :whale:
+- Kubernetes 
+
+#### Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/thomas-reilly-590513171/)
+- [My Website](http://www.thomasreilly.tech/)
+- Email: thomas.edreilly@gmail.com
