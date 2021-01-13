@@ -13,7 +13,7 @@ I'm Thomas, I'm an aspiring Software Engineer and a student of Computer Science 
 - C/C++ 
 - Python :snake:
 - Ruby :gem:
-- SQL :sql:
+- SQL
 - Git :octocat:
 - Linux :penguin:
 - Docker :whale:
