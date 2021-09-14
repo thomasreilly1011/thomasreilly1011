@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Thomas, I'm an aspiring Software Engineer and a student of Computer Science at University College Dublin 🇮🇪. I'm currently working an internship at [LibertyIT](https://www.liberty-it.co.uk/) as a Software Engineer. I enjoy taking part in coding compettions and participating in events with [UCD Netsoc](https://netsoc.com/), as well as playing music, travelling and cooking. Currently I'm learning about Microservices and Machine Learning. Here are some repositories you might be interested in,
+I'm Thomas, I'm an aspiring Software Engineer and a final year student of Computer Science at University College Dublin 🇮🇪. I enjoy taking part in coding compettions and participating in events with [UCD Netsoc](https://netsoc.com/), as well as playing music, travelling and cooking. Currently I'm learning about Offensive and Application Security. Here are some repositories you might be interested in,
 
 - 📦 [DDMS](https://github.com/thomasreilly1011/DDMS) - A distributed delivery management system built using a microservices architechture. It offers an 'inbetween' for e-commerce sites and postal services agregating a number of postal services and offering an interface from which you can: request and compare quotations for a partical delivery order, initiate a delivery order & track that orders status and location in the postal services sorting centres.
 
@@ -21,5 +21,4 @@ I'm Thomas, I'm an aspiring Software Engineer and a student of Computer Science 
 
 #### Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/thomas-reilly-590513171/)
-- [My Website](http://www.thomasreilly.tech/)
 - Email: thomas.edreilly@gmail.com
